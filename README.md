@@ -13,7 +13,23 @@ Dataset provided as part of Codebasics Bootcamp 5.0, based on a fictional hardwa
 **Tools & Skills Used**
 
 Power BI Desktop — report design & interactivity
+
 DAX — calculated measures and KPIs
+
 Power Query — data cleaning and transformation
+
 Data Modeling — star schema design, relationships
+
 Business analysis: sales performance, financial KPIs, forecast accuracy (AbsError %, Accuracy %)
+
+**Dashboard Sections**
+
+Sales Insights — revenue trends, regional/market performance, customer performance, and product-wise sales
+
+Finance Insights — profit & loss overview, financial KPIs, net sales performance overtime
+
+Forecast Accuracy — comparison of forecast vs. actuals, error analysis
+
+Executive View- providing insights to the top management, top 5 products and customers, revenue by divison and channel 
+
+Top Customers & Products — best-performing customers and products by revenue/quantity
