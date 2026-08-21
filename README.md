@@ -1,3 +1,6 @@
+**Introduction**
+An end-to-end Power BI project built for Atliq Hardware, a hardware distribution company, as part of my data analytics portfolio. The report consolidates sales, finance, forecast accuracy, top customers, and product-level performance into a single interactive dashboard.
 
-Business Insights 360 is an end-to-end Power BI project built for Atliq Hardware, a fictional hardware distribution company, as part of my data analytics portfolio. The dashboard consolidates sales performance, financial KPIs, and forecast accuracy metrics into a single interactive report, demonstrating skills in data modeling, DAX, and business-focused visualization.
-Data Source: Dataset provided as part of the Power BI Bootcamp 5.0, based on a fictional hardware company, Atliq Hardware.
+**Overview**
+Atliq Hardware needed a unified view of business performance across departments. This report brings together sales trends, financial metrics, forecast accuracy, and customer/product insights to support data-driven decision-making — replacing scattered spreadsheets with one interactive tool.
+
