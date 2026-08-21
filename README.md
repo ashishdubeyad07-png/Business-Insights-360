@@ -38,8 +38,6 @@ Executive View- providing insights to the top management, top 5 products and cus
 
 Top Customers & Products — best-performing customers and products by revenue/quantity
 
-**Data Model**
-C:\Users\ashis\OneDrive\Pictures\Screenshots\Star Schema.png.bz2
 
 **Challenges & Solutions**
 
